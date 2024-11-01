@@ -62,6 +62,3 @@ int main()
 }
 ```
 see more examples in the examples folder
-
-### please note
-- all .out files are for linux x86 only
