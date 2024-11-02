@@ -5,7 +5,7 @@ git clone https://github.com/mousegames/asciiGameDev.git
 ```
 - github cli
 ```
-gh clone https://github.com/mousegames/asciiGameDev.git
+gh repo clone mousegames/asciiGameDev
 ```
 
 ## Geting started
@@ -62,6 +62,3 @@ int main()
 }
 ```
 see more examples in the examples folder
-
-### please note
-- all .out files are for linux x86 only
